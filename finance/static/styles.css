@@ -1,0 +1,186 @@
+h1{
+    margin: 130px 1px 18px 1px;
+    color: #29b6f6; /* Bright blue color */
+    text-shadow: 0 0 10px #29b6f6; /* Glowing effect */
+}
+
+h3{
+    color: #fff !important; /* White text color */
+    text-shadow:
+        0 0 5px #32CD32, /* Light green glow */
+        0 0 10px #32CD32;
+        font-size: 25px;
+        margin-bottom: 10px;
+}
+
+input{
+    max-width: 100%;
+    width: 100%;
+    padding: 12px 98px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border-radius: 16px;
+    border: none;
+    outline: none;
+}
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #29b6f6; /* Bright blue color */
+    text-shadow: 0 0 10px #29b6f6; /* Glowing effect */
+}
+nav .navbar-brand .red
+{
+    color: #29b6f6; /* Bright blue color */
+    text-shadow: 0 0 10px #29b6f6; /* Glowing effect */
+}
+nav .navbar-brand .yellow
+{
+    color: #29b6f6; /* Bright blue color */
+    text-shadow: 0 0 10px #29b6f6; /* Glowing effect */
+}
+nav .navbar-brand .green
+{
+    color: #29b6f6; /* Bright blue color */
+    text-shadow: 0 0 10px #29b6f6; /* Glowing effect */
+}
+
+.navbar-nav .nav-link {
+    color: #fff !important; /* White text color */
+    text-shadow:
+        0 0 5px #32CD32, /* Light green glow */
+        0 0 10px #32CD32; /* Larger green glow */
+}
+
+/* Change background color to black */
+body {
+    background-color: black;
+}
+
+main {
+    margin-top: -32px;
+}
+
+.btn-primary {
+    font-size: 20px;
+    padding: 10px 40px 10px 40px;
+    border-radius: 43px;
+    margin-top: 34px;
+    background-color: #ff1493; /* New background color */
+    color: #fff; /* Text color, e.g., white */
+    text-shadow:
+        0 0 5px #ff6ec7,
+        0 0 10px #ff6ec7,
+        0 0 20px #ff6ec7,
+        0 0 40px #ff1493,
+        0 0 80px #ff1493,
+        0 0 120px #ff1493;
+    border: none; /* Optional: removes the border */
+    outline: none; /* Optional: removes the outline */
+    box-shadow:
+        0 0 5px #ff6ec7,
+        0 0 10px #ff6ec7,
+        0 0 20px #ff6ec7,
+        0 0 40px #ff1493,
+        0 0 80px #ff1493,
+        0 0 120px #ff1493;
+}
+
+/* Assuming your main content has a class 'main-content' */
+.main-content {
+    text-align: center;
+    width: 80%; /* Adjust width as needed */
+    margin: 0 auto; /* Center the main content */
+}
+
+.container-fluid .py-5 .text-center{
+    font-size: 25px;
+}
+
+/* Expand input fields */
+input[type="text"], input[type="password"], input[type="email"] {
+    max-width: 100%;
+    width: 100%;
+    padding: 12px 98px;
+    margin: 5px 0;
+    box-sizing: border-box;
+    border-radius: 16px;
+    border: none;
+    outline: none;
+
+}
+
+td , tbody{
+    border: 2px solid #00bfff; /* Sky blue border */
+    box-shadow:
+        0 0 5px #00bfff, /* Outer glow */
+        0 0 10px #00bfff; /* Larger outer glow */
+    color: #ff6ec7; /* Neon pink color */
+    text-shadow:
+        0 0 5px #ff6ec7, /* Outer glow */
+        0 0 10px #ff6ec7; /* Larger outer glow */
+}
+
+th{
+
+        color: #ff6ec7; /* Neon pink color */
+        text-shadow:
+            0 0 5px #ff6ec7, /* Outer glow */
+            0 0 10px #ff6ec7; /* Larger outer glow */
+
+}
+
+tr, thead{
+    border: 2px solid #00bfff; /* Sky blue border */
+    box-shadow:
+        0 0 5px #00bfff, /* Outer glow */
+        0 0 10px #00bfff; /* Larger outer glow */
+}
+
+.alert-primary {
+    color: #980808c9;
+    background-color: #55ed63;
+    border-color: #8bff0c;
+}
+
+nav.navbar.bg-light {
+    background-color: #636363c2 !important; /* Dark gray background */
+    color: #fff !important; /* White text */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
+
+nav.navbar.bg-light .nav-link {
+    color: #fff !important; /* Ensuring white text for links */
+}
+
+.border {
+    border: #3d3b4e !important;
+}
+
+nav.navbar.bg-light .btn {
+    color: #fff; /* White text */
+    background-color: #636363; /* Dark gray background */
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Subtle white glow */
+}
+
+.nav-item{
+    color: #ff6ec7; /* Neon pink color */
+    text-shadow:
+        0 0 5px #ff6ec7, /* Outer glow */
+        0 0 10px #ff6ec7; /* Larger outer glow */
+}
+
+
+form{
+    color: #fff !important; /* White text color */
+    text-shadow:
+        0 0 5px #32CD32, /* Light green glow */
+        0 0 10px #32CD32;
+        font-size: 25px;
+        margin-bottom: 10px;
+}

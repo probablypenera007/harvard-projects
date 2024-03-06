@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    text-align: center;
+    display: initial;
+    background-image: url(https://i.imgur.com/KcNsuji.png);
+    background-size: cover;
+    background-position: fixed;
+}
+
+article{
+    margin-top: 100px;
+    padding-left:200px;
+    padding-right:200px;
+}
+section{
+    margin-top: 100px;
+}

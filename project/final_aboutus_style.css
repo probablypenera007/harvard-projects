@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    height: 100vh;
+    display: fit;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://i.imgur.com/KcNsuji.png);
+    background-size: cover;
+    background-position: center;
+}
+.aboutus{
+    all: initial;
+    all: unset;
+    margin-top:10%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 8px;
+}
+.navbar{
+    all: initial;
+    all: unset;
+    margin-top: -300px;
+    margin-left: 60px;
+    margin-bottom: 50px;
+    display: table-cell;
+    vertical-align: top;
+    text-align: center;
+}
+.nav-item{
+    all: initial;
+    all: unset;
+    background-color: transparent;
+    text-align: center;
+    display: inline-block;
+    margin-right: 100px;
+    margin-bottom: 200px;
+    padding-left: 150px;
+    color: black;
+}
+
+.button{
+    all: initial;
+    all: unset;
+    font-size: medium;
+    height: 90px;
+    display: flex;
+    cursor: pointer;
+    padding: 10px 20px;
+    background: #fff;
+    border-radius: 30px;
+    align-items: center;
+    margin-right: 100px;
+    box-shadow: 0 50px 25px rgba(0, 0, 0, 0.3);
+}
+
+h3{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 0;
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    padding: 8px;
+    box-sizing: border-box;
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+    font-weight: 400;
+    text-shadow: 0 80px 50px rgba(255, 255, 255, 0.3);
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+

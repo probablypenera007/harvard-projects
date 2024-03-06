@@ -1,0 +1,26 @@
+sort1 uses: BUBBLE SORT
+
+random 10,000 took 0.288s
+sort 10,000 took 0.067s
+
+How do you know?: the amount of time for Random and Sorted got solved is very drastic, based on my understanding with Bubble Sort it tends to do that.
+
+
+//
+
+sort2 uses: MERGE SORT
+
+random 10,000 took 0.053s
+sort 10,000 took 0.055s
+
+How do you know?: the amount of time the Random part and the Sort part got sorted is the fastest, based on my understanding with Merge Sort it's the fastest sorting algorithm to do that.
+
+//
+
+sort3 uses: SELECTION SORT
+
+random 10,000 took 0.222s
+sort 10,000 took 0.169s
+
+
+How do you know?: to be honest, this is a lucky guess since it's the last one of the three choices.
